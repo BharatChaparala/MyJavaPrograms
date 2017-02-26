@@ -7,7 +7,7 @@ public class Swapnumbers {
 		a=a/b;	
 	}
 
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 	
 		Swapnumbers swaps = new Swapnumbers();
 		swaps.a=10;
@@ -17,10 +17,6 @@ public class Swapnumbers {
 		swaps.swap();
 		System.out.println("After swapping");
 		System.out.println("A Value is:" + swaps.a  + " B Value is" + swaps.b);
-		
-		
-		
-		
 
 	}
 
@@ -28,6 +24,6 @@ public class Swapnumbers {
 		Sytem.out.println("Before swapping");
 				System.out.println("A Value is:" + swaps.a + " B Value is" + swaps.b);
 				
-	}
+	}*/
 
 }
