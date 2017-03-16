@@ -1,0 +1,15 @@
+package javapackage.com;
+
+public class MethodUsing {
+	
+		
+	public static int addnumbers(int a,int b){
+	
+	int c=a+b;
+	return c;
+	
+	}
+	
+	
+
+}

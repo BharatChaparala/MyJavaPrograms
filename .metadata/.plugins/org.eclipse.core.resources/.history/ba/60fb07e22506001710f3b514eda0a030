@@ -1,0 +1,16 @@
+package javapackage.com;
+
+public class MethodUsing {
+	
+		
+	public int addnumbers(int a,int b){
+	
+	return a+b;
+	
+	}
+	
+	public int subnumbers(int a,int b){
+		
+		return a-b;
+
+}

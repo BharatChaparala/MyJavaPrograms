@@ -1,0 +1,26 @@
+import javapackage.com.MethodUsing;
+
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		
+		//System.out.println("Hellow World");
+		
+		//System.out.println("Welcome to world of Java programs");
+		
+		
+		MethodUsing mu =new MethodUsing();
+		
+		
+		//System.out.println( "sum is " + MethodUsing.addnumbers());
+		
+		//System.out.println( "sub is " + MethodUsing.subnumbers());
+		
+		System.out.print(mu.dataname();
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+package javapackage.com;
+
+public class MethodUsing {
+	
+	int a=10;
+	int b=20;
+	int c=a-b;
+	
+	public int addnumbers(){
+	
+	return c;
+	
+	}
+	
+	
+
+}

@@ -1,0 +1,19 @@
+package javapackage.com;
+
+public class LearningOperands {
+
+	
+	public static void main(String[] args) {
+		
+		int a =10;
+		int b =30;
+		int c;
+		c=(a>b)?a:b;
+		System.out.println("c= " +c);
+		
+		c=(a<b)?a:b;
+		System.out.println("c= " +c);
+		
+	}
+
+}
