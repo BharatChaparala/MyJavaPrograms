@@ -10,8 +10,8 @@ public class BankAccount {
 		int bal = 1000;
 		int ch;
 		int amount =0;
-		//do
-		//{
+		do
+		{
 		System.out.println("Menu");
 		System.out.println("1:Check Balance");
 		System.out.println("2:Withdraw Amount");
@@ -55,7 +55,7 @@ public class BankAccount {
 			System.out.println("Wrong choice");
 			break;
 		}
-		//} while(ch !=4 );
+		} while(ch !=4 );
 	}
 
 }
